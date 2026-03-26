@@ -19,6 +19,6 @@ except IndexError:
     print("You're out of list range")
 ```
 ## Output
-
+![alt text](<Screenshot 2026-03-26 185341.png>)
 ## Result
 Thus,the program has been executed successfully.
