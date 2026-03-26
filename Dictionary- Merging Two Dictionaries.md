@@ -22,6 +22,7 @@ print(dict3)
 ```
 
 ## Output
+![alt text](<Screenshot 2026-03-26 185322.png>)
 
 ## Result
 Thus,the program has been executed successfully.
