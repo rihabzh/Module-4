@@ -25,6 +25,6 @@ result = cse(r)
 result.mech()
 ```
 ## Output
-
+![alt text](<Screenshot 2026-03-26 185313.png>)
 ## Result
 Thus,the program has been executed successfully.
