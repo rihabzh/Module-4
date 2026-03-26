@@ -37,6 +37,8 @@ print(f"Keys and Values sorted in alphabetical order by the value\n{b}")
 ```
 ## Sample Output
 
+![alt text](<Screenshot 2026-03-26 185331.png>)
+
 ## Result
 
 Thus,the program has been executed successfully.
